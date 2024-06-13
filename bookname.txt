@@ -1,5 +1,0 @@
-SE
-JAVA
-C language
-k
-data
